@@ -6,7 +6,6 @@ This project is a simple authentication system using **Next.js** and **NextAuth.
 
 - User login and registration with **NextAuth.js**
 - Authentication using **Credentials Provider**
-- Protected **Dashboard** page
 - UI components built with **React & Tailwind CSS**
 
 
@@ -68,6 +67,3 @@ nextauth-trial/
 - **UI Libraries**: Tailwind CSS, ShadCN UI
 - **Bcryptjs**: I used it for password hashing
 - **react-toastify**: For better notifications alert box
-
-
-
